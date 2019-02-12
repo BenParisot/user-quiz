@@ -1,3 +1,7 @@
+#UPDATE:
+
+This is an alternate approach to rating the scorecard. As a challenge I wanted to see if I could get the winning results from the scorecard without using conditional statements. rateScorecardAlt is the function I came up with.
+
 # User Quiz
 
 Build an app that sorts the user into some kind of category. Some examples might be their ideal programming language or to which house in Hogwarts they belong. The app prompts the user for their name (and any additionally required info) and then has them take a multiple choice quiz. Each quiz question answer will give weight to one or more categories (a single answer might contribute to more than one categroy). Based on their answers to the quiz questions, the app provides a result that indicates which category the user belongs to.

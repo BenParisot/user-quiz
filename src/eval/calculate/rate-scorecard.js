@@ -1,8 +1,11 @@
+
+
 function rateScorecard(scorecard) {
     const apple = scorecard.apple;
     const banana = scorecard.banana;
     const kiwi = scorecard.kiwi;
     const blueberry = scorecard.blueberry;
+    
     if(apple > banana && apple > kiwi && apple > blueberry) {
         return 'apple';
     }
